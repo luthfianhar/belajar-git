@@ -1,0 +1,9 @@
+[user]
+email = luthfi2006@student.abudzar.sch.id
+name = luthfi anhar 
+[core]
+editor = code --wait
+[diff]
+tool = default-difftool
+[difftool "default-difftool"]
+cmd = code --wait --diff $LOCAL $REMOTE

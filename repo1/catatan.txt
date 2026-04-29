@@ -1,0 +1,53 @@
+nama = anhar 
+
+note :
+(.) titik = keseluruhan
+nama_file = spesifik file tersebut
+
+vocabulary :
+-f = force
+diff = diffrence
+init = initialization
+
+git config --global --edit : untuk mengedit configurasi secara detail
+git diff : membandingkan perubahan pada file
+git clean -f : membersihkan perubahan pada area working directory
+git restore : mengembalikan perubahan pada area working directory
+git restore --staged : mengembalikan area yang sebelumnya staging index -> working directory
+git log : untuk melihat seluruh riwayat commit
+git log --oneline : sama semerti git log namun lebih ringkas
+git show (code hasnya) : untuk melihat perubahan pada commit
+git diff (code hash 1) (code hash 2) : untuk membandingkan 2 commit secara spesifik
+git commit --amend : untuk reset soft commit sebelumnya
+
+catatan :
+- difftool 83
+- reset commit
+
+hash 1 : 8338e852f97cbcf16dc1650d688d776dcb7228ed
+hash 2 : 496ad539bd51cd6c9aa1a59d69ac2fca4f69eac9
+note :
+(.) titik = keseluruhan
+nama_file = spesifik file tersebut
+
+vocabulary :
+-f = force
+diff = diffrence
+init = initialization
+
+git config --global --edit : untuk mengedit configurasi secara detail
+git diff : membandingkan perubahan pada file
+git clean -f : membersihkan perubahan pada area working directory
+git restore : mengembalikan perubahan pada area working directory
+git restore --staged : mengembalikan area yang sebelumnya staging index -> working directory
+git log : untuk melihat seluruh riwayat commit
+git log --oneline : sama semerti git log namun lebih ringkas
+git show (code hasnya) : untuk melihat perubahan pada commit
+git diff (code hash 1) (code hash 2) : untuk membandingkan 2 commit secara spesifik
+
+catatan :
+- difftool 83
+- reset
+
+hash 1 : 8338e852f97cbcf16dc1650d688d776dcb7228ed
+hash 2 : 496ad539bd51cd6c9aa1a59d69ac2fca4f69eac9
